@@ -22,17 +22,17 @@ from 90.95% before replacing THS ninth graders to 65.08%. This is a significant 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### How does replacing the ninth-grade scores affect the following:
-        ### - Math and reading scores by grade. 
+        ### Math and reading scores by grade. 
             Overall the math and reading scores were not affected except for Thomas High School since the ninth grader scores were replaced with NaNs.
 Ninth Grade Math Scores
 ![ninth_grade_math_scores](https://user-images.githubusercontent.com/106283411/179303951-1beccd1e-c872-4fa3-8096-e458937a9d00.png)
 
-Ningh Grade Reading Scores
+Ninth Grade Reading Scores
 ![ninth_grade_reading_scores](https://user-images.githubusercontent.com/106283411/179304095-bbf3224f-9b92-4026-ad1b-64e19c8fd87d.png)
 
 
 
-        ### - Scores by school spending
+        -  ### Scores by school spending
             The scores had no affect on per school spending. These are set numbers spend per student from each high school however the changes can be seen on Spending Ranges (Per Student) under $631-645 before and after replacement of ninth-grade at Thomals High School. The percentage changed on overall passing changed from 62.86% to 56.39% under $631-645 spending ranges. This is due to the number of students was reduced after replacing the THS ninth-graders.
 ![Scores by School Spending_before_ninth_grade](https://user-images.githubusercontent.com/106283411/179304154-70b39093-f87c-4d9b-8c19-9b940ff25327.png)
 
