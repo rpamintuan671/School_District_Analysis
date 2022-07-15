@@ -22,7 +22,8 @@ from 90.95% before replacing THS ninth graders to 65.08%. This is a significant 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 ### How does replacing the ninth-grade scores affect the following:
-        ### Math and reading scores by grade. 
+
+### * Math and reading scores by grade. 
             Overall the math and reading scores were not affected except for Thomas High School since the ninth grader scores were replaced with NaNs.
 Ninth Grade Math Scores
 ![ninth_grade_math_scores](https://user-images.githubusercontent.com/106283411/179303951-1beccd1e-c872-4fa3-8096-e458937a9d00.png)
@@ -32,7 +33,7 @@ Ninth Grade Reading Scores
 
 
 
-        -  ### Scores by school spending
+### * Scores by school spending
             The scores had no affect on per school spending. These are set numbers spend per student from each high school however the changes can be seen on Spending Ranges (Per Student) under $631-645 before and after replacement of ninth-grade at Thomals High School. The percentage changed on overall passing changed from 62.86% to 56.39% under $631-645 spending ranges. This is due to the number of students was reduced after replacing the THS ninth-graders.
 ![Scores by School Spending_before_ninth_grade](https://user-images.githubusercontent.com/106283411/179304154-70b39093-f87c-4d9b-8c19-9b940ff25327.png)
 
@@ -41,7 +42,7 @@ Ninth Grade Reading Scores
 
 
 
-        ### - Scores by school size
+### * Scores by school size
             Under the same School Size - Medium (1000-1999), the overall passing math and reading had changed due the sum calculation used under that column after the replacement of THS ninth-graders to calculate the mean.
 ![Scores by School Size Before Ninth Graders](https://user-images.githubusercontent.com/106283411/179304251-2e0bd048-cbf4-4237-a17d-676d3ebf8ef5.png)
 
@@ -50,7 +51,7 @@ Ninth Grade Reading Scores
 
 
 
-       ### - Scores by school type
+### * Scores by school type
             The the top 5 high schools, there are all Chaartered school which included Thomas High School. After the replacement of ninth-graders at Thomas High School, Wright High School replaced Thomas High school. 
 Top Five Schools are all Chartered Schools.
 ![Top_five_schools_before](https://user-images.githubusercontent.com/106283411/179304493-a9d9679c-14cd-4c76-8bd5-816336478caf.png)
