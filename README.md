@@ -13,6 +13,8 @@ Below is a snapshot of school summary before replacing Thomas High School ninth 
 ![School Summary Before Removing THS Ninth Graders](https://user-images.githubusercontent.com/106283411/179303656-8813153f-c63e-48a7-a70b-548ef2a592a0.png)
 
 
+
+
 Below is a snapshot of school summary after replacing Thomas High School(THS) ningth graders from the data. The overall passing rate on Thomas High School dropped 
 from 90.95% before replacing THS ninth graders to 65.08%. This is a significant drop of 28% difference.
 ![School Summary After Removing THS Ninth Graders](https://user-images.githubusercontent.com/106283411/179303754-4f1f55d7-b5b7-425e-9267-a95b85495d7d.png)
@@ -29,6 +31,7 @@ Ningh Grade Reading Scores
 ![ninth_grade_reading_scores](https://user-images.githubusercontent.com/106283411/179304095-bbf3224f-9b92-4026-ad1b-64e19c8fd87d.png)
 
 
+
         ### - Scores by school spending
             The scores had no affect on per school spending. These are set numbers spend per student from each high school however the changes can be seen on Spending Ranges (Per Student) under $631-645 before and after replacement of ninth-grade at Thomals High School. The percentage changed on overall passing changed from 62.86% to 56.39% under $631-645 spending ranges. This is due to the number of students was reduced after replacing the THS ninth-graders.
 ![Scores by School Spending_before_ninth_grade](https://user-images.githubusercontent.com/106283411/179304154-70b39093-f87c-4d9b-8c19-9b940ff25327.png)
@@ -37,11 +40,13 @@ Ningh Grade Reading Scores
 
 
 
+
         ### - Scores by school size
             Under the same School Size - Medium (1000-1999), the overall passing math and reading had changed due the sum calculation used under that column after the replacement of THS ninth-graders to calculate the mean.
 ![Scores by School Size Before Ninth Graders](https://user-images.githubusercontent.com/106283411/179304251-2e0bd048-cbf4-4237-a17d-676d3ebf8ef5.png)
 
 ![Scores by School Size After Ninth Graders](https://user-images.githubusercontent.com/106283411/179304289-f333583b-fffd-4df3-b9e2-83382f984b92.png)
+
 
 
 
@@ -54,6 +59,7 @@ Top Five Schools are all Chartered Schools.
              There are no changes on the buttom 5 high schools by type. It is all District Schools. 
 Top Below Schools are all District Schools
 ![Top_five_schools_after](https://user-images.githubusercontent.com/106283411/179304424-570b4f47-92f8-464c-a872-8d8839878624.png)
+
 
 
 
